@@ -13,3 +13,5 @@ Chatbot Preview<br>
 6. Recommend me a course on Java script <br>
 7. Thanks <br>
 8. Goodbye <br>
+raw json <br>
+[https://raw.githubusercontent.com/jaredycw/StudentAdvisorChatbot/main/coursera_courses.json](https://raw.githubusercontent.com/jaredycw/StudentAdvisorChatbot/main/coursera_courses.json)
